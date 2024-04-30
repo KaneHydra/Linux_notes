@@ -18,6 +18,12 @@ markdown 格式的檔案
 git clone https://github.com/KaneHydra/Linux_notes.git
 ```
 
+要更新的話就可以在資料夾裏面用pull比較方便
+
+```sh
+git pull
+```
+
 ## roadmap
 
 -   [x] 上傳檔案
